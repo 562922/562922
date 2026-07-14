@@ -1,16 +1,18 @@
 # Hello there, I'm Chris.
-A multi-language software engineer focused on building scalable and automated systems, videogames and tools, and cross-platform applications. I specialize in picking up new technologies quickly and applying the right tool to the right problem.
+A multi-language software engineer focused on building scalable and automated systems, videogames and tools, and cross-platform applications. I specialize in picking up new tech quickly and applying the right tools to specific problems.
 
 ---
 
-## Tech Stack
+## Tech
 *I write production, testing, and scripting code across numerous languages:*
 
 ### Systems & Backend Development
 ![C](https://shields.io)
 ![C#](https://shields.io)
 ![C++](https://shields.io)
-![Python](https://shields.io)
+![Python](https://img.shields.io/badge/Python?logo=python&logoColor=%233776AB&label=Python)
+![Docker]()
+![YAML]()
 
 * C / C# / C++ - Game loop architecture, state management, and low-level performance optimization.
 * Python - Mathematical simulations, algorithmic analysis, and rapid prototyping.
