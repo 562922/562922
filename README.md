@@ -53,14 +53,47 @@ I pick up new tech quickly and apply the right tool to each problem.
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
-[![562922.dev](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=562922.dev&theme=default&hide_border=true)](https://github.com/562922/562922.dev)
-[![SpeedReader](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=SpeedReader&theme=default&hide_border=true)](https://github.com/562922/SpeedReader)
-[![DnDCharacterCreator](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=DnDCharacterCreator&theme=default&hide_border=true)](https://github.com/562922/DnDCharacterCreator)
-[![MediaArr](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=MediaArr&theme=default&hide_border=true)](https://github.com/562922/MediaArr)
-[![PokerSim](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=PokerSim&theme=default&hide_border=true)](https://github.com/562922/PokerSim)
-[![animeGame](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=animeGame&theme=default&hide_border=true)](https://github.com/562922/animeGame)
-[![ZombieSIRPlus](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=ZombieSIRPlus&theme=default&hide_border=true)](https://github.com/562922/ZombieSIRPlus)
-[![562922.github.io](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=562922.github.io&theme=default&hide_border=true)](https://github.com/562922/562922.github.io)
+**[562922.dev](https://github.com/562922/562922.dev)**  
+Dev portfolio website.
+
+---
+
+**[SpeedReader](https://github.com/562922/SpeedReader)**  
+Speed reading tool to help users read faster.
+
+---
+
+**[DnDCharacterCreator](https://github.com/562922/DnDCharacterCreator)**  
+`JavaScript`  
+_No description set on this repo yet._
+
+---
+
+**[MediaArr](https://github.com/562922/MediaArr)**  
+-Arr stack deployment for docker self-hosted media server through jellyfin.
+
+---
+
+**[PokerSim](https://github.com/562922/PokerSim)**  
+_No description set on this repo yet._
+
+---
+
+**[animeGame](https://github.com/562922/animeGame)**  
+`C++`  
+_No description set on this repo yet._
+
+---
+
+**[ZombieSIRPlus](https://github.com/562922/ZombieSIRPlus)**  
+`Python`  
+_No description set on this repo yet._
+
+---
+
+**[562922.github.io](https://github.com/562922/562922.github.io)**  
+`HTML`  
+_No description set on this repo yet._
 <!--END_SECTION:projects-->
 
 <br>
