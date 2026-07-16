@@ -52,20 +52,8 @@ I pick up new tech quickly and apply the right tool to each problem.
 
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
-<div align="center">
-
 <!--START_SECTION:projects-->
-[![562922.dev](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=562922.dev&theme=default&hide_border=true)](https://github.com/562922/562922.dev)
-[![SpeedReader](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=SpeedReader&theme=default&hide_border=true)](https://github.com/562922/SpeedReader)
-[![DnDCharacterCreator](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=DnDCharacterCreator&theme=default&hide_border=true)](https://github.com/562922/DnDCharacterCreator)
-[![MediaArr](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=MediaArr&theme=default&hide_border=true)](https://github.com/562922/MediaArr)
-[![PokerSim](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=PokerSim&theme=default&hide_border=true)](https://github.com/562922/PokerSim)
-[![animeGame](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=animeGame&theme=default&hide_border=true)](https://github.com/562922/animeGame)
-[![ZombieSIRPlus](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=ZombieSIRPlus&theme=default&hide_border=true)](https://github.com/562922/ZombieSIRPlus)
-[![562922.github.io](https://github-readme-stats.vercel.app/api/pin/?username=562922&repo=562922.github.io&theme=default&hide_border=true)](https://github.com/562922/562922.github.io)
 <!--END_SECTION:projects-->
-
-</div>
 
 <br>
 
