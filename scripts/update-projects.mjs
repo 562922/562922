@@ -36,6 +36,57 @@ async function fetchRepos() {
     .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
 }
 
+function escapeMd(text) {
+  // Neutralize characters that would break markdown rendering.
+  return text.replace(/\|/g, "\\|").replace(/\n/g, " ").trim();
+}
+
+function buildCardMarkdown(repo) {
+  const desc = repo.description
+    ? escapeMd(repo.description)
+    : "_No description set on this repo yet._";
+  const lang = repo.language ? `\`${repo.language}\`` : "";
+  const stars = repo.stargazers_count > 0 ? `★ ${repo.stargazers_count}` : "";
+  const meta = [lang, stars].filter(Boolean).join("&nbsp;&nbsp;·&nbsp;&nbsp;");
+
+  return [
+    `**[${repo.name}](${repo.html_url})**${meta ? `  \n${meta}` : ""}`,
+    `${desc}`,
+  ].join("  \n");
+}
+
+async function main() {
+  const fs = await import("node:fs/promises");
+  const repos = await fetchRepos();
+
+  if (repos.length === 0) {
+    console.log("No repos found — leaving section unchanged.");
+    return;
+  }
+
+  const cards = repos.map(buildCardMarkdown).join("\n\n---\n\n");
+  const section = `${START_MARKER}\n${cards}\n${END_MARKER}`;
+
+  const readme = await fs.readFile(README_PATH, "utf-8");
+  const pattern = new RegExp(`${START_MARKER}[\\s\\S]*?${END_MARKER}`);
+
+  if (!pattern.test(readme)) {
+    throw new Error(
+      `Could not find ${START_MARKER} / ${END_MARKER} markers in ${README_PATH}.`
+    );
+  }
+
+  const updated = readme.replace(pattern, section);
+  await fs.writeFile(README_PATH, updated);
+  console.log(`Updated project section with ${repos.length} repo(s).`);
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
+}
+
 function buildCardMarkdown(repo) {
   const url = `https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${repo.name}&theme=default&hide_border=true`;
   return `[![${repo.name}](${url})](${repo.html_url})`;
