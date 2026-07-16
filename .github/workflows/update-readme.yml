@@ -26,10 +26,11 @@ jobs:
       - name: Fetch repos and update README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/update-projects.mjs
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh project showcase"
-          file_pattern: README.md
+          file_pattern: README.md scripts/description-cache.json
