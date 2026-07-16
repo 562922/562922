@@ -1,71 +1,76 @@
-# Hello there, I'm Chris.
-A multi-language software engineer focused on building scalable and automated systems, videogames and tools, and cross-platform applications. I specialize in picking up new tech quickly and applying the right tools to specific problems.
+<div align="center">
+
+# Hi, I'm Chris
+
+**Software Engineer** — scalable systems · videogames &amp; tools · cross-platform apps
+
+I pick up new tech quickly and apply the right tool to each problem.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ryan-1073a8360/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Chrisper.ryan@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/562922)
+
+</div>
+
+<br>
 
 ---
 
-## Tech
-*I write production, testing, and scripting code across numerous languages:*
+<br>
 
-### Systems & Backend Development
-![C](https://shields.io)
-![C#](https://shields.io)
-![C++](https://shields.io)
-![Python](https://img.shields.io/badge/Python?logo=python&logoColor=%233776AB&label=Python)
-![Docker]()
-![YAML]()
+## Tech stack
 
-* C / C# / C++ - Game loop architecture, state management, and low-level performance optimization.
-* Python - Mathematical simulations, algorithmic analysis, and rapid prototyping.
+**Systems & backend**
 
-### Web & Application Layers
-![JavaScript](https://shields.io)
-![HTML](https://shields.io)
-![CSS](https://shields.io)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-* JavaScript - Dynamic client-side logic, event-driven programming, and state tracking.
-* HTML / CSS - Semantic layout designing for web applications.
+- C / C# / C++ — game loop architecture, state management, and low-level performance optimization.
+- Python — mathematical simulations, algorithmic analysis, and rapid prototyping.
+- Docker — multi-service orchestration and self-hosted deployment stacks.
 
----
+**Web & application layers**
 
-## Project Showcase
-The following repositories demonstrate proficiency across different language environments and project complexities:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### DnDCharacterCreator | JavaScript
-* What it is: A web-based application designed to streamline the creation and management of tabletop roleplaying character sheets.
-* Core Stack: JavaScript, HTML, CSS.
-* Language Highlight: Utilizes event-driven JavaScript to handle complex, real-time calculations for character stats and attribute modifiers.
-* Link to Repo: https://github.com/562922/DnDCharacterCreator
+- JavaScript — dynamic client-side logic, event-driven programming, and real-time state tracking.
+- HTML / CSS — semantic layout design for interactive web applications.
 
-### animeGame | C++
-* What it is: A desktop game engine implementation exploring interactive mechanics and custom logic states.
-* Core Stack: C++, CMake.
-* Language Highlight: Demonstrates object-oriented programming structures, memory safety, and native compilation for low-latency game performance.
-* Link to Repo: https://github.com/562922/animeGame
-
-### ZombieSIRPlus | Python
-* What it is: A mathematical simulation applying modified SIR (Susceptible-Infectious-Recovered) epidemiological models to a speculative scenario.
-* Core Stack: Python.
-* Language Highlight: Showcases computational logic, data structuring, and programmatic modeling of dynamic systems using Python.
-* Link to Repo: https://github.com/562922/ZombieSIRPlus
-
-### gpaCalculator | HTML & JavaScript
-* What it is: A precise academic tool that calculates overall GPA based on letter grades while factoring in custom course rigor weighting.
-* Core Stack: HTML, JavaScript.
-* Language Highlight: Leverages clean algorithmic weighting logic to parse user input and map string values to numeric scores.
-* Link to Repo: https://github.com/562922/gpaCalculator
-
-### Media Arr Stack | Docker
-* What it is: Full scale -arr stack deployment for selfhosting movie, show, music, and others media in a clean server layout through Jellyfin and other docker applications.
-* Core Stack: Docker.
-* Language Highlight: Demonstrates extensive integration of numerous docker systems to generate a smooth user experience for uploading, fetching, and viewing media of all forms. 
-* link to Repo: https://github.com/562922/MediaArr
+<br>
 
 ---
 
-## Git Stats
+<br>
 
+## Project showcase
 
-## How to reach me:
-* **LinkedIn:** [/in/christopher-ryan-1073a8360/]([(https://www.linkedin.com/in/christopher-ryan-1073a8360/)])
-* **Website:** [yourusername.github.io](https://github.io)
-* **Email:** your.email@example.com
+_Pulled live from my GitHub repos — updates automatically, nothing to edit here._
+
+<div align="center">
+
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## How to reach me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-christopher--ryan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ryan-1073a8360/)
+[![Email](https://img.shields.io/badge/-Chrisper.ryan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Chrisper.ryan@gmail.com)
+[![GitHub](https://img.shields.io/badge/-562922-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/562922)
+
+</div>
