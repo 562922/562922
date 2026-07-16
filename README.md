@@ -65,7 +65,7 @@ Speed reading tool to help users read faster.
 
 **[DnDCharacterCreator](https://github.com/562922/DnDCharacterCreator)**  
 `JavaScript`  
-_No description set on this repo yet._
+DnD Character Creator
 
 ---
 
@@ -75,25 +75,25 @@ _No description set on this repo yet._
 ---
 
 **[PokerSim](https://github.com/562922/PokerSim)**  
-_No description set on this repo yet._
+_No description available yet._
 
 ---
 
 **[animeGame](https://github.com/562922/animeGame)**  
 `C++`  
-_No description set on this repo yet._
+Complete C++17 Game Engine Ready for Unreal Engine 5
 
 ---
 
 **[ZombieSIRPlus](https://github.com/562922/ZombieSIRPlus)**  
 `Python`  
-_No description set on this repo yet._
+_No description available yet._
 
 ---
 
 **[562922.github.io](https://github.com/562922/562922.github.io)**  
 `HTML`  
-_No description set on this repo yet._
+562922.github.io
 <!--END_SECTION:projects-->
 
 <br>
