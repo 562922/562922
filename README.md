@@ -53,6 +53,12 @@ I pick up new tech quickly and apply the right tool to each problem.
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
+**[Solarr](https://github.com/562922/Solarr)**  
+`Python`  
+Seerr, Radarr, Sonarr, Lidarr, and Gamearr replacement for a simplified -arr stack. Best for small scale servers.
+
+---
+
 **[562922.dev](https://github.com/562922/562922.dev)**  
 Dev portfolio website.
 
