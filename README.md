@@ -59,34 +59,14 @@ Seerr, Radarr, Sonarr, Lidarr, and Gamearr replacement for a simplified -arr sta
 
 ---
 
-**[theSystem](https://github.com/562922/theSystem)**  
-Js a fun cookie clicker type experience based off of the solo leveling system.
-
----
-
-**[562922.dev](https://github.com/562922/562922.dev)**  
-Dev portfolio website.
-
----
-
-**[SpeedReader](https://github.com/562922/SpeedReader)**  
-Speed reading tool to help users read faster.
-
----
-
 **[DnDCharacterCreator](https://github.com/562922/DnDCharacterCreator)**  
 `JavaScript`  
 DnD Character Creator
 
 ---
 
-**[MediaArr](https://github.com/562922/MediaArr)**  
--Arr stack deployment for docker self-hosted media server through jellyfin.
-
----
-
-**[PokerSim](https://github.com/562922/PokerSim)**  
-_No description available yet._
+**[Open-Chronicle](https://github.com/562922/Open-Chronicle)**  
+A pseudo remake of Your Chronicle that takes the concept  a step further buy making the game fully player driven with endless possible stories for users to explore.
 
 ---
 
