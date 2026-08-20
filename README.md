@@ -53,6 +53,12 @@ I pick up new tech quickly and apply the right tool to each problem.
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
+**[SolarrBuild](https://github.com/562922/SolarrBuild)**  
+`Shell`  
+Script to automatically build and start a full Jellyfin media server with sonarr, radarr, and the other required apps.
+
+---
+
 **[Solarr](https://github.com/562922/Solarr)**  
 `Python`  
 Seerr, Radarr, Sonarr, Lidarr, and Gamearr replacement for a simplified -arr stack. Best for small scale servers.
