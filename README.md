@@ -53,14 +53,8 @@ I pick up new tech quickly and apply the right tool to each problem.
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
-**[SolarrBuild](https://github.com/562922/SolarrBuild)**  
-`Shell`  
-Script to automatically build and start a full Jellyfin media server with sonarr, radarr, and the other required apps.
-
----
-
 **[Solarr](https://github.com/562922/Solarr)**  
-`Python`  
+`Python`&nbsp;&nbsp;·&nbsp;&nbsp;★ 1  
 Seerr, Radarr, Sonarr, Lidarr, and Gamearr replacement for a simplified -arr stack. Best for small scale servers.
 
 ---
@@ -85,12 +79,6 @@ Complete C++17 Game Engine Ready for Unreal Engine 5
 **[ZombieSIRPlus](https://github.com/562922/ZombieSIRPlus)**  
 `Python`  
 _No description available yet._
-
----
-
-**[562922.github.io](https://github.com/562922/562922.github.io)**  
-`HTML`  
-562922.github.io
 <!--END_SECTION:projects-->
 
 <br>
