@@ -54,7 +54,7 @@ _Pulled live from my GitHub repos — updates automatically, nothing to edit her
 
 <!--START_SECTION:projects-->
 **[Solarr](https://github.com/562922/Solarr)**  
-`Python`&nbsp;&nbsp;·&nbsp;&nbsp;★ 1  
+`Python`  
 Seerr, Radarr, Sonarr, Lidarr, and Gamearr replacement for a simplified -arr stack. Best for small scale servers.
 
 ---
