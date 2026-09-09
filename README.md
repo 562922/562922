@@ -53,6 +53,12 @@ I pick up new tech quickly and apply the right tool to each problem.
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
+**[animeGame](https://github.com/562922/animeGame)**  
+`C++`  
+AnimeGame is an original, sourceinspired RPG vertical slice. The playable client is a browser/WebGL runtime in game/web; the C++17 library and JavaScript systems provide reusable gameplay/data foun...
+
+---
+
 **[Solarr](https://github.com/562922/Solarr)**  
 `Python`  
 Seerr, Radarr, Sonarr, Lidarr, and Gamearr replacement for a simplified -arr stack. Best for small scale servers.
@@ -67,12 +73,6 @@ DnD Character Creator
 
 **[Open-Chronicle](https://github.com/562922/Open-Chronicle)**  
 A pseudo remake of Your Chronicle that takes the concept  a step further buy making the game fully player driven with endless possible stories for users to explore.
-
----
-
-**[animeGame](https://github.com/562922/animeGame)**  
-`C++`  
-Complete C++17 Game Engine Ready for Unreal Engine 5
 
 ---
 
