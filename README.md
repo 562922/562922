@@ -53,6 +53,11 @@ I pick up new tech quickly and apply the right tool to each problem.
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
+**[IB-Bio-IA-Sim](https://github.com/562922/IB-Bio-IA-Sim)**  
+Simulation of evolution over many generations.
+
+---
+
 **[animeGame](https://github.com/562922/animeGame)**  
 `C++`  
 AnimeGame is an original, sourceinspired RPG vertical slice. The playable client is a browser/WebGL runtime in game/web; the C++17 library and JavaScript systems provide reusable gameplay/data foun...
