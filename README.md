@@ -53,6 +53,11 @@ I pick up new tech quickly and apply the right tool to each problem.
 _Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
+**[OpenWeb-Angel](https://github.com/562922/OpenWeb-Angel)**  
+Self-hosted AI
+
+---
+
 **[IB-Bio-IA-Sim](https://github.com/562922/IB-Bio-IA-Sim)**  
 Simulation of evolution over many generations.
 
