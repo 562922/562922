@@ -1,5 +1,6 @@
 <div align="center">
-# Hi, I'm Chris
+
+  # Hi, I'm Chris
 
 **Software Engineer** — scalable systems · videogames &amp; tools · cross-platform apps
 
@@ -8,20 +9,44 @@ I pick up new tech quickly and apply the right tool to each problem.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ryan-1073a8360/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Chrisper.ryan@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/562922)
+
 </div>
+
 <br>
+
 ---
+
 <br>
+
 ## Tech stack
 
 **Systems & backend**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-00599C?style=flat-square&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=flat-square)
+
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+
+![GCC](https://img.shields.io/badge/GCC-3572A5?style=flat-square&logo=gnu&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-3572A5?style=flat-square&logo=llvm&logoColor=white)
+![Binutils](https://img.shields.io/badge/Binutils-3572A5?style=flat-square)
+![LD](https://img.shields.io/badge/LD-3572A5?style=flat-square)
+![LLD](https://img.shields.io/badge/LLD-3572A5?style=flat-square)
+![Make](https://img.shields.io/badge/Make-3572A5?style=flat-square&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-3572A5?style=flat-square&logo=cmake&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-2496ED?style=flat-square&logo=yaml&logoColor=white)
+
+![WSL2](https://img.shields.io/badge/WSL2-8B5CF6?style=flat-square&logo=linux&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-8B5CF6?style=flat-square)
+![Bochs](https://img.shields.io/badge/Bochs-8B5CF6?style=flat-square)
+
+![GDB](https://img.shields.io/badge/GDB-D97706?style=flat-square&logo=gnu&logoColor=white)
 
 - C / C# / C++ — game loop architecture, state management, and low-level performance optimization.
 - Python — mathematical simulations, algorithmic analysis, and rapid prototyping.
