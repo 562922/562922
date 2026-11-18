@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, I'm Chris
 
 **Software Engineer** — scalable systems · videogames &amp; tools · cross-platform apps
@@ -9,15 +8,10 @@ I pick up new tech quickly and apply the right tool to each problem.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ryan-1073a8360/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Chrisper.ryan@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/562922)
-
 </div>
-
 <br>
-
 ---
-
 <br>
-
 ## Tech stack
 
 **Systems & backend**
@@ -31,7 +25,7 @@ I pick up new tech quickly and apply the right tool to each problem.
 
 - C / C# / C++ — game loop architecture, state management, and low-level performance optimization.
 - Python — mathematical simulations, algorithmic analysis, and rapid prototyping.
-- Docker — multi-service orchestration and self-hosted deployment stacks.
+- Docker / YAML — multi-service orchestration and self-hosted deployment stacks.
 
 **Web & application layers**
 
@@ -49,8 +43,6 @@ I pick up new tech quickly and apply the right tool to each problem.
 <br>
 
 ## Project showcase
-
-_Pulled live from my GitHub repos — updates automatically, nothing to edit here._
 
 <!--START_SECTION:projects-->
 **[OpenWeb-Angel](https://github.com/562922/OpenWeb-Angel)**  
